@@ -1,15 +1,20 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Alex Le"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+![alex le climbing garden of gods hero image](/assets/alex_le_climb_garden_hero_image.jpg)
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+## Hello, welcome to my blog. ##
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+I live in Colorado and write firmware for disc drives. I like to read, work out, and tinker with technology and side projects.
 
-Thanks for reading!
+Most of my programming experience is in C, but I dabble with Python, HTML/CSS, Javascript, and new frameworks in my downtime.
+
+When I'm not at work or on the computer, you can find me immersed in a book or outside running somewhere. I began running in 2012 and, well, I can't get enough of it.
+
+You'll find that I write about running a lot. Mainly because I enjoy it and feel there's much to learn and improve on. But also because I believe it's a wonderful metaphor for life, in so many ways.
+
+You can reach me on [Instagram](https://instagram.com/alextrle) or by email at alex.csm@gmail.com
