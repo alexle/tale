@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "5 Hour Radiator Replacement"
+title: 5 Hour Radiator Replacement
+date: 2011-03-25
 ---
 
 I was driving home from work the other day when I noticed my car's heat gauge slowly past the 50% mark. This odd behavior was more alarming due to the puddles of liquid seen beneath my engine recently. And to the check engine light  which had been on for over 5 weeks..

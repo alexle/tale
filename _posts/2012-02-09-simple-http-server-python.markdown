@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "How To Setup A Simple HTTP Server With Python"
+date: 2012-02-09
+tags: programming
 ---
 
 There are times when you need to setup a quick web server to test your web applications. For basic applications which don't require database or server-side language support, Python has a [module][1] to run a mini web server on your system. It takes no time to configure and eats up very little system resources!

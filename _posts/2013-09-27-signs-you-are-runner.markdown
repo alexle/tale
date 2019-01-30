@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "12 Signs That You're A Runner"
+date: 2013-09-27
+tags: running
 ---
 
 I'm three weeks away from my [first ever marathon][4]. I'm nervous, yet really excited.
@@ -21,14 +23,8 @@ What were the signs that let you know you were finally a runner? Here is my list
 
 6. You know the mileage (yes, mileage) on your running shoes.
 
-      <a href="/static/shoe_mileage.png">
-      <amp-img class="pure-img center vertimg400" src="/static/shoe_mileage.png"
-         alt="alex shoe mileage"
-         layout="responsive"
-         width=400
-         height=268></amp-img>
-      </a>
-      <div class="separator">It's been a wonderful 8 months Pure Drifts</div>
+![alex shoe mileage](/assets/shoe_mileage.png)
+_It's been a wonderful 8 months Pure Drifts_
 
 7. Your long runs become so long, you have to check two parts of the weather forecast. The conditions when you start.. and the conditions when you expect to finish.
 
@@ -40,18 +36,12 @@ What were the signs that let you know you were finally a runner? Here is my list
 
 11. You have drawers in your house which look like this:
 
-       <a href="/static/gu_drawer.jpg">
-       <amp-img class="pure-img center" src="/static/gu_drawer.jpg"
-         alt="alex gu drawer"
-         layout="responsive"
-         width=600
-         height=450></amp-img>
-       </a>
-       <div class="separator">My top dresser drawer, yum</div>
+![alex gu drawer](/assets/gu_drawer.jpg)
+_My top dresser drawer, yum_
 
 12. You finish a run, double-over, gasping for air. People passing by don't comprehend why you voluntary do this to yourself. Yet, you can't help smiling how great this is. That's when you know.
 
-<hr class="break">
+## Bonus Comments ##
 
 I shared this list on the [Runner's World forum][2] and received some great (and funny) responses. Here are some bonus ones which I can relate to:
 
@@ -63,5 +53,5 @@ I shared this list on the [Runner's World forum][2] and received some great (and
 
 [1]: http://shouldalexrun.appspot.com
 [2]: http://community.runnersworld.com/topic/12-signs-that-you-are-a-runner
-[3]: /blog/2013/training-marathon.html
-[4]: /blog/first-marathon.html
+[3]: /training-marathon.html
+[4]: /first-marathon.html

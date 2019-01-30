@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "My .Vimrc Configuration"
+date: 2012-01-20
+tags: programming
 ---
 
 [VIM][1] is my favorite text editor. It's powerful, customizable, and available on all platforms (default on unix-systems, gvim/macvim on pc/osx-systems). Most importantly, it allows me to get my work done in an **efficient** manner. Once you learn the movements and power commands, your hands rarely have to leave the keyboard when editing.

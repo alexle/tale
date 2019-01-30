@@ -5,7 +5,7 @@ author: "Alex Le"
 permalink: /about/
 ---
 
-![alex le climbing garden of gods hero image](/assets/alex_le_climb_garden_hero_image.jpg)
+![alex le sonoma vineyard](/assets/alex_le_sonoma_hero_crop.jpg)
 
 ## Hello, welcome to my blog. ##
 

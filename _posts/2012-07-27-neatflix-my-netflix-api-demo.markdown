@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Neatflix: A Netflix API Demo"
+date: 2012-07-27
+tags: programming
 ---
 
 [Netflix][1] is one of my guilty pleasures in life. *Guilty* because I believe TV is evil and try to limit the amount of time I spend in front of one. Yet, there are good, interesting, and entertaining shows out there which I enjoy watching every now and then and Netflix is an economical way to get some of this content.

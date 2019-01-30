@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Pearl Street Mile: Bring Back The Mile!"
+date: 2016-08-14
+tags: running
 ---
 
 ![pearl street mile alex le image by daniel joder](/assets/alex_le_pearl_street_mile_daniel_joder_crop.jpg)
-_Photo by [Daniel Joder](http://www.danieljoderphotography.com/the-pearl-street-mile/")_
 
 "How long was your run yesterday? How many miles did you log last week? Do you have any big races coming up?"
 

@@ -2,11 +2,9 @@
 layout: post
 title: "Change How You See The World With One Word"
 date: 2017-03-24
-categories: running 
 ---
 
 ![alex le mesa trail morning](/assets/alex_le_mesa_trail_morning.jpg)
-_A morning run on the Mesa Trail in Boulder_
 
 I'm going to let you in on a secret technique of mine.
 

@@ -1,20 +1,16 @@
 ---
 layout: post
 title: "Training For A Marathon In 9 Weeks"
+date: 2013-09-06
+tags: running
 ---
 
 It's strange how quickly the mind forgets about pain. Just [3 months ago][1], I told my body if it could hang on until the finish line, it would never have to run another mile again.
 
 Now, like a mosquito drawn to one of those electric zappers, I've somehow signed up for another race - this time a [full marathon][4].
 
-<p>
-<amp-img class="pure-img center" src="/static/bug_zapper.jpg"
-   alt="bug zapper from disney's a bug life"
-   layout="responsive"
-   width=600
-   height=408></amp-img>
-<div class="separator">Photo from Disney's <a href="http://movies.disney.com/a-bugs-life">A Bug's Life</a></div>
-</p>
+![bug zapper from disney's a bug life](/assets/bug_zapper.jpg)
+_Photo from Disney's <a href="http://movies.disney.com/a-bugs-life">A Bug's Life</a>_
 
 While the "full" is a (seemingly) logical next step from a half-marathon, my situation is slightly unconventional for a couple of reasons:
 
@@ -24,13 +20,13 @@ While the "full" is a (seemingly) logical next step from a half-marathon, my sit
 
 Could one adequately prepare for 26.2 miles in 9 weeks, given the above conditions? We'll find out in a couple of weeks. In the meantime, I thought I'd share my experiences each week, in case it might prove useful to someone.
 
-##Running Background##
+## Running Background ##
 
 I started running 18 months ago. At the time, I could barely finish a mile. By the end of 2012, I completed [125 total miles][2] averaging 1.6 miles per run. Not bad!
 
 This year, my running has greatly improved. I'm able to run 3 miles comfortably now, and average 10 miles/week. On the days I don't run, I lift weights and do CrossFit exercises at the gym. I've completed one 5k, one 10k, and one [half-marathon][1].
 
-##Training Plan##
+## Training Plan ##
 
 After some research, I settled on an 18-week training plan by [Hal Higdon][3] - Novice 2.
 
@@ -49,7 +45,7 @@ table { align: center; border: 1px solid black; }
 td { text-align: center; padding-left: 0.7em; padding-right: 0.7em; }
 </style>
 
-<center>**9 Week Training Log**</center>
+<center>*9 Week Training Log*</center>
 
 <table align="center">
 <tr><td>Week</td><td>Run</td><td>Run</td><td>Run</td><td>LSD</td><td>Total</td></tr>
@@ -63,16 +59,17 @@ td { text-align: center; padding-left: 0.7em; padding-right: 0.7em; }
 <tr><td>8</td><td>4</td><td>6</td><td>-</td><td>15</td><td>25</td></tr>
 <tr><td>9</td><td>7</td><td>3</td><td>-</td><td>13</td><td>23</td></tr>
 </table>
+<br>
 
 Yes, my mileage was woefully low.. And I [paid for it dearly][4]. Nonetheless, here's a brief summary of how each week went.
 
-##Week 1 - 9mi LSD##
+## Week 1 - 9mi LSD ##
 
 Overconfident and eager to prove myself, I came out too fast on the LSD. The first 6mi felt ok. It fell terribly apart after. My pace, form, and motivation to move forward dropped dramatically until the end.
 
 \* Lesson: Start slower. Bring water and GU next time to practice fueling.
 
-##Week 2 - 12mi LSD##
+## Week 2 - 12mi LSD ##
 
 The short runs were great this week. I wish I could have said the same for the 12mi LSD. Before this run, I had never run with water or GU. It sounded like a good idea to fuel at the half-way point.
 
@@ -82,7 +79,7 @@ Mile 10 hit me hard. I felt extremely dehydrated for some reason. I shuffled my 
 
 \* Lesson: Don't wait too long to hydrate. Make note of nearby trash cans before you GU.
 
-##Week 3 - 13mi LSD##
+## Week 3 - 13mi LSD ##
 
 The plan this week was to hydrate earlier. Water at 30 minutes and GU at 60 minutes. The last 1.5mi were tough. Overall, the run felt pretty good. It was my best LSD yet. I secretly wished the marathon was next week so I could obliterate it. What's another 13 miles, I told myself.
 
@@ -90,7 +87,7 @@ I began to notice a trend with the LSD's. The final miles each week were really,
 
 \* Lesson: 10% rule is for reals and a good principle.
 
-##Week 4 - 14mi LSD##
+## Week 4 - 14mi LSD ##
 
 This week's LSD was my first run over 2 hours. And the first time I ever hit a "wall".
 
@@ -104,7 +101,7 @@ I described my situation to a co-worker who does triathlons. His stance was when
 
 \* Lesson: Fueling properly is extremely important. If you wait for your body, it's too late.
 
-##Week 5 - 15mi LSD##
+## Week 5 - 15mi LSD ##
 
 The 15mi LSD was the most painful one yet. Calves, arches, hip flexors, IT band, and a bunch of other leg muscles I never knew existed were on fire. Is this what child birth feels like? It was the first time I had serious doubts about finishing the marathon.
 
@@ -112,7 +109,7 @@ I stuck to the same plan of water at 30 minutes, GU at 60 minutes, and Powerade 
 
 \* Lesson: When in pain, relax and focus on a couple steps at a time.
 
-##Week 6 - 16mi LSD##
+## Week 6 - 16mi LSD ##
 
 Due to massive rainstorms and floods here in Colorado this week, I completed only two short runs. Extreme panic and uncertainty about the marathon has set in.
 
@@ -122,7 +119,7 @@ What also may have helped was fueling more often. This time, I GU'ed twice (45 a
 
 \* Lesson: Training is a great time to try new things. Don't wait until race day.
 
-##Week 7 - <strike>17mi</strike> 20mi LSD##
+## Week 7 - <strike>17mi</strike> 20mi LSD ##
 
 Every once in a while, something amazingly unexpected happens. Your item rings up lower than listed at the register. You get an 88 on the final you thought you bombed. You make a gutshot straight draw on the river.
 
@@ -136,7 +133,7 @@ As for the run, it felt like everything finally clicked. I had a better feel of 
 
 \* Lesson: Sometimes you're running against the wind. And sometimes the wind is at your back. When the latter happens, ride and make the most of it.
 
-##Week 8 - <strike>20mi</strike> 15mi LSD##
+## Week 8 - <strike>20mi</strike> 15mi LSD ##
 
 With a 20mi run under my belt and two weeks left until race day, I started my taper. This involves scaling down mileage to allow the body to recover from all the hard work thus far. Most runners recommend a 20-25% decrease in total weekly volume. In my case, the decrease will be around 5-10% since I've been playing catch-up from the start.
 
@@ -146,19 +143,19 @@ Big mistake. This type of shoe encourages a more natural foot strike, but takes 
 
 \* Lesson: Zero-drop shoes are not for newbies. Give yourself time to adjust to them.
 
-##Week 9 - 13mi LSD##
+## Week 9 - 13mi LSD ##
 
 I had mixed emotions approaching my last week of training. Relieved to make it through the 9 weeks intact. Thrilled with the progress I made. Yet, sad it was over. A part of me had grown accustomed to the weekly LSDs and the challenges each week presented. What was I going to do with my Saturdays now?
 
 There was no theme to the final LSD. Some sections were fast. Others were easy and day-dreamy. I even struggled a bit during the end. It was a nice combination of all the weeks of training.
 
-##Reflections##
+## Reflections ##
 
 Looking back, it was a transforming 9 weeks. I found a good fueling and pacing strategy. I ran more miles in a month than I did all [last year][2]. I even PR'd my 5k, 10k, AND half-marathon! In some ways, I've already won and will be happy no matter what the results of the marathon are. Only one week left, I can't wait.
 
 \* Lesson: Life is truly, truly in the journey. Not the destination.
 
-[1]: /blog/2013/first-half-marathon.html
-[2]: /blog/2012/100-miles.html
+[1]: /first-half-marathon.html
+[2]: /100-miles.html
 [3]: http://www.halhigdon.com/training/51138/Marathon-Novice-2-Training-Program
-[4]: /blog/first-marathon.html
+[4]: /first-marathon.html

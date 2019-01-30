@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Hello World!"
+date: 2008-12-10
+tags: programming
 ---
 
 ``` c

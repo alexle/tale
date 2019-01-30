@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Vietnamese Tones Chart"
+date: 2011-08-06
 ---
 
 There are six [tones][1] in Vietnamese:<br />

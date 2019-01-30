@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Why I Moved My Blog To Github Pages"
+date: 2012-02-09
+tags: programming
 ---
 
 In an earlier [post][1], I expressed my desire to write more. While Google Blogger was a good platform to start on, I quickly realized how closed and limiting it was.

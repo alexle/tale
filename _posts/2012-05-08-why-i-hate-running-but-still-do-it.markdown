@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Why I Hate Running But Still Do It Anyways"
+date: 2012-05-08
+tags: running
 ---
 
 ![parks and recreation jogging is the worst](/assets/jogging_worst.jpg)

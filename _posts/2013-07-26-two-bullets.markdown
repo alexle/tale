@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Russian Gangster Kidnaps You.."
+date: 2013-07-26
 ---
 
 He puts two bullets in consecutive order in an empty six-round revolver, spins it, points it at your head and shoots.

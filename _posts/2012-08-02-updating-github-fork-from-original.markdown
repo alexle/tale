@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Keeping A Github Fork Updated"
+date: 2012-08-02
+tags: programming
 ---
 
 I still find myself having to look up how to update my forked Github repositories so I'm creating a quick post for future use. The steps below are what I use to keep the code I've forked current with its original repository.

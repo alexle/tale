@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The One Minute Manager"
+date: 2011-03-13
 ---
 
 Finished this book last week and thought I would write a little about it for future reference.

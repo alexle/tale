@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "How To Send A SMS Message With Python (easy way)"
+date: 2013-05-05
+tags: programming
 ---
 
 [Python][2] is a high-level programming language. It's easy to read, has great libraries, and is well documented. On top of it, it's extremely versatile and powerful. Python is my favorite language to work with and I've yet to come across a problem it could not solve.

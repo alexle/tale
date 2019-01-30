@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Create An RSS Feed From Scratch"
+date: 2012-04-11
+tags: programming
 ---
 
 [RSS feeds][1] are a great way to stay updated with the barrage of content on the web. Unfortunately, not all websites have one available - including this one (until now). Here's a quick guide to the basic components of an RSS feed and how to create one from scratch.

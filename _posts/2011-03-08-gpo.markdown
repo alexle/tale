@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "GPO!"
+date: 2011-03-08
 ---
 
 The day has finally come. I now exist in the google universe.

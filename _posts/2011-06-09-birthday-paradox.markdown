@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "The Birthday Paradox"
+date: 2011-06-09
+tags: programming
 ---
 
 I read something the other day that piqued my curiosity:

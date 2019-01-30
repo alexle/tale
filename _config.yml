@@ -1,10 +1,10 @@
 # Site settings
 title:          Alex Le
 description:    "Alex Le's Blog"
-url:            "https://alexle.github.io"
+url:            "https://alexanderle.com"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+google_analytics: UA—28947728-1
 
 # Author
 author:
@@ -27,6 +27,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jemoji
 
 # Permalinks

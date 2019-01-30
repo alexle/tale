@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why An Easy Life Is Overrated"
+date: 2016-11-25
 ---
 
 ![wall-e humans on floating chairs](/assets/wall_e_couch.jpg)
-_Photo from Pixar's [Wall-E]("http://www.pixar.com/features_films/WALLE")_
 
 Imagine two days:
 
@@ -79,5 +79,3 @@ If it's one thing I've learned in 2016, it's that we are capable of much, *much*
 So choose the hilly route on your next run. Volunteer for that tough project everyone is afraid of. Push yourself and get uncomfortable.
 
 I guarantee, you won't regret the results.
-
-[1]: http://www.imdb.com/title/tt4574334/

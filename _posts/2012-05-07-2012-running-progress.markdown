@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Update On 2012 Running Progress"
+date: 2012-05-07
+tags: running
 ---
 
 One of my [goals this year][1] is to run 100 miles. To keep track, I use the Nike+ app on my iPhone and enable it on every run. It's pretty cool seeing the route, elevation, and pace of past runs. Plus it's fairly accurate.

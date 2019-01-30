@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Store your data with HTML5 local storage"
+date: 2011-11-27
+tags: programming
 ---
 
 [Local storage][3] is a pretty cool feature included in HTML5.

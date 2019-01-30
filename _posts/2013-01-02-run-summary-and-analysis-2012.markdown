@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "A Summary And Analysis Of Running In 2012"
+date: 2013-01-02
+tags: running
 ---
 
 *WARNING: Lots of statistics and graphs below. Proceed at your own risk.*

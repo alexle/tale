@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A Look Back On My Best Year Of Running Ever, And How I Managed To Do It"
+date: 2018-01-04
 ---
 
 ![alex running track](/assets/alex_track.jpg "alex running track")
-_Local track near my house, where gains are made_
 
 Happy New Year! It's that time of year when we start afresh with a blank state, full of hope and possibility for things to come.
 

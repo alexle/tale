@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Favorite Programming Quotes
+date: 2011-09-01
 ---
 
 Every profession has their own "inside" jokes. Those which only others in their industry can relate to and understand. Here are some programming quotes I've come across I've enjoyed:
