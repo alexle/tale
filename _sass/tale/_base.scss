@@ -1,6 +1,5 @@
 * {
   @include box-sizing;
-  //line-height: 1.5;
   line-height: 1.7;
 }
 
@@ -12,13 +11,16 @@ body {
 }
 
 html {
-  font-family: $serif-primary;
-  font-size: 14px;
+  //font-family: $serif-primary;
+  //font-family: $sans-serif;
+  //font-family: 'Raleway', sans-serif;
+  //font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
   overflow-y: scroll;
 
   @media (min-width: 600px) {
-    //font-size: 18px;
-    font-size: 17px;
+    font-size: 20px;
   }
 }
 

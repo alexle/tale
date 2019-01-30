@@ -1,7 +1,6 @@
 .container {
   margin: 0 auto;
-  //max-width: 800px;
-  max-width: 660px;
+  max-width: $container_width;
   //width: 80%;
   width: 90%;
 }
@@ -11,8 +10,7 @@ footer,
 .nav-container {
   display: block;
   margin: 0 auto;
-  //max-width: 800px;
-  max-width: 660px;
+  max-width: $container_width;
   //width: 80%;
   width: 90%;
 }
@@ -28,12 +26,17 @@ footer,
   }
 
   &-title {
-    @include transition(all .2s ease-out);
+    font-size: 1.7rem;
+    font-weight: 700;
     color: $default-color;
+    @include transition(all .2s ease-out);
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
-    font-size: 1.9rem;
+
+    @media (max-width: 400px) {
+      font-size: 1.6rem;
+    }
 
     &:hover,
     &:focus {
